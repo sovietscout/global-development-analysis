@@ -1,0 +1,161 @@
+Country Code (alpha-2),Country Code (alpha-3),Country,IG,Region
+AF,AFG,Afghanistan,LIC,Asia
+DZ,DZA,Algeria,UMIC,Africa
+AS,ASM,American Samoa,HIC,Oceania
+AG,ATG,Antigua and Barbuda,HIC,North America
+AR,ARG,Argentina,UMIC,South America
+AW,ABW,Aruba,HIC,South America
+AU,AUS,Australia,HIC,Oceania
+AT,AUT,Austria,HIC,Europe
+BS,BHS,Bahamas,HIC,North America
+BH,BHR,Bahrain,HIC,Asia
+BD,BGD,Bangladesh,LMIC,Asia
+BB,BRB,Barbados,HIC,North America
+BE,BEL,Belgium,HIC,Europe
+BZ,BLZ,Belize,UMIC,North America
+BJ,BEN,Benin,LMIC,Africa
+BM,BMU,Bermuda,HIC,North America
+BT,BTN,Bhutan,LMIC,Asia
+BO,BOL,Bolivia,LMIC,South America
+BW,BWA,Botswana,UMIC,Africa
+BR,BRA,Brazil,UMIC,South America
+BF,BFA,Burkina Faso,LIC,Africa
+BI,BDI,Burundi,LIC,Africa
+KH,KHM,Cambodia,LMIC,Asia
+CM,CMR,Cameroon,LMIC,Africa
+CA,CAN,Canada,HIC,North America
+CF,CAF,Central African Republic,LIC,Africa
+TD,TCD,Chad,LIC,Africa
+CL,CHL,Chile,HIC,South America
+CN,CHN,China,UMIC,Asia
+CO,COL,Colombia,UMIC,South America
+KM,COM,Comoros,LMIC,Africa
+CG,COG,Congo,LMIC,Africa
+CR,CRI,Costa Rica,UMIC,North America
+CI,CIV,Cote d'Ivoire,LMIC,Africa
+CY,CYP,Cyprus,HIC,Europe
+CD,COD,Democratic Republic of Congo,LIC,Africa
+DK,DNK,Denmark,HIC,Europe
+DM,DMA,Dominica,UMIC,North America
+DO,DOM,Dominican Republic,UMIC,North America
+EC,ECU,Ecuador,UMIC,South America
+EG,EGY,Egypt,LMIC,Africa
+SV,SLV,El Salvador,UMIC,North America
+GQ,GNQ,Equatorial Guinea,UMIC,Africa
+SZ,SWZ,Eswatini,LMIC,Africa
+ET,ETH,Ethiopia,LIC,Africa
+FO,FRO,Faroe Islands,HIC,Europe
+FJ,FJI,Fiji,UMIC,Oceania
+FI,FIN,Finland,HIC,Europe
+FR,FRA,France,HIC,Europe
+GA,GAB,Gabon,UMIC,Africa
+GM,GMB,Gambia,LIC,Africa
+DE,DEU,Germany,HIC,Europe
+GH,GHA,Ghana,LMIC,Africa
+GR,GRC,Greece,HIC,Europe
+GL,GRL,Greenland,HIC,Europe
+GD,GRD,Grenada,UMIC,North America
+GU,GUM,Guam,HIC,Oceania
+GT,GTM,Guatemala,UMIC,North America
+GN,GIN,Guinea,LMIC,Africa
+GW,GNB,Guinea-Bissau,LIC,Africa
+GY,GUY,Guyana,HIC,South America
+HT,HTI,Haiti,LMIC,North America
+HN,HND,Honduras,LMIC,North America
+HK,HKG,Hong Kong,HIC,Asia
+HU,HUN,Hungary,HIC,Europe
+IS,ISL,Iceland,HIC,Europe
+IN,IND,India,LMIC,Asia
+ID,IDN,Indonesia,UMIC,Asia
+IR,IRN,Iran,UMIC,Asia
+IQ,IRQ,Iraq,UMIC,Asia
+IE,IRL,Ireland,HIC,Europe
+IM,IMN,Isle of Man,HIC,Europe
+IL,ISR,Israel,HIC,Asia
+IT,ITA,Italy,HIC,Europe
+JM,JAM,Jamaica,UMIC,North America
+JP,JPN,Japan,HIC,Asia
+JO,JOR,Jordan,LMIC,Asia
+KE,KEN,Kenya,LMIC,Africa
+KI,KIR,Kiribati,LMIC,Oceania
+KW,KWT,Kuwait,HIC,Asia
+LA,LAO,Laos,LMIC,Asia
+LB,LBN,Lebanon,LMIC,Asia
+LS,LSO,Lesotho,LMIC,Africa
+LR,LBR,Liberia,LIC,Africa
+LY,LBY,Libya,UMIC,Africa
+LU,LUX,Luxembourg,HIC,Europe
+MO,MAC,Macao,HIC,Asia
+MG,MDG,Madagascar,LIC,Africa
+MW,MWI,Malawi,LIC,Africa
+MY,MYS,Malaysia,UMIC,Asia
+MV,MDV,Maldives,UMIC,Asia
+ML,MLI,Mali,LIC,Africa
+MT,MLT,Malta,HIC,Europe
+MR,MRT,Mauritania,LMIC,Africa
+MU,MUS,Mauritius,UMIC,Africa
+MX,MEX,Mexico,UMIC,North America
+MA,MAR,Morocco,LMIC,Africa
+MZ,MOZ,Mozambique,LIC,Africa
+MM,MMR,Myanmar,LMIC,Asia
+NP,NPL,Nepal,LMIC,Asia
+NL,NLD,Netherlands,HIC,Europe
+NC,NCL,New Caledonia,HIC,Oceania
+NZ,NZL,New Zealand,HIC,Oceania
+NI,NIC,Nicaragua,LMIC,North America
+NE,NER,Niger,LIC,Africa
+NG,NGA,Nigeria,LMIC,Africa
+NO,NOR,Norway,HIC,Europe
+OM,OMN,Oman,HIC,Asia
+PK,PAK,Pakistan,LMIC,Asia
+PA,PAN,Panama,HIC,North America
+PG,PNG,Papua New Guinea,LMIC,Oceania
+PY,PRY,Paraguay,UMIC,South America
+PE,PER,Peru,UMIC,South America
+PH,PHL,Philippines,LMIC,Asia
+PL,POL,Poland,HIC,Europe
+PT,PRT,Portugal,HIC,Europe
+PR,PRI,Puerto Rico,HIC,North America
+QA,QAT,Qatar,HIC,Asia
+RO,ROU,Romania,HIC,Europe
+RW,RWA,Rwanda,LIC,Africa
+KN,KNA,Saint Kitts and Nevis,HIC,North America
+LC,LCA,Saint Lucia,UMIC,North America
+VC,VCT,Saint Vincent and the Grenadines,UMIC,North America
+WS,WSM,Samoa,LMIC,Oceania
+ST,STP,Sao Tome and Principe,LMIC,Africa
+SA,SAU,Saudi Arabia,HIC,Asia
+SN,SEN,Senegal,LMIC,Africa
+SC,SYC,Seychelles,HIC,Africa
+SL,SLE,Sierra Leone,LIC,Africa
+SG,SGP,Singapore,HIC,Asia
+SB,SLB,Solomon Islands,LMIC,Oceania
+SO,SOM,Somalia,LIC,Africa
+ZA,ZAF,South Africa,UMIC,Africa
+KR,KOR,South Korea,HIC,Asia
+ES,ESP,Spain,HIC,Europe
+LK,LKA,Sri Lanka,LMIC,Asia
+SD,SDN,Sudan,LIC,Africa
+SR,SUR,Suriname,UMIC,South America
+SE,SWE,Sweden,HIC,Europe
+CH,CHE,Switzerland,HIC,Europe
+SY,SYR,Syria,LIC,Asia
+TW,TWN,Taiwan,HIC,Asia
+TZ,TZA,Tanzania,LMIC,Africa
+TH,THA,Thailand,UMIC,Asia
+TG,TGO,Togo,LIC,Africa
+TO,TON,Tonga,UMIC,Oceania
+TT,TTO,Trinidad and Tobago,HIC,North America
+TN,TUN,Tunisia,LMIC,Africa
+TR,TUR,Turkey,UMIC,Asia
+UG,UGA,Uganda,LIC,Africa
+AE,ARE,United Arab Emirates,HIC,Asia
+GB,GBR,United Kingdom,HIC,Europe
+US,USA,United States,HIC,North America
+VI,VIR,United States Virgin Islands,HIC,North America
+UY,URY,Uruguay,HIC,South America
+VU,VUT,Vanuatu,LMIC,Oceania
+VN,VNM,Vietnam,LMIC,Asia
+YE,YEM,Yemen,LIC,Asia
+ZM,ZMB,Zambia,LMIC,Africa
+ZW,ZWE,Zimbabwe,LMIC,Africa

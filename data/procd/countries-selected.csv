@@ -1,0 +1,80 @@
+Country Code (alpha-2),Country Code (alpha-3),Country,IG,Region
+AF,AFG,Afghanistan,LIC,Asia
+AR,ARG,Argentina,UMIC,South America
+BD,BGD,Bangladesh,LMIC,Asia
+BE,BEL,Belgium,HIC,Europe
+BZ,BLZ,Belize,UMIC,North America
+BT,BTN,Bhutan,LMIC,Asia
+BO,BOL,Bolivia,LMIC,South America
+BR,BRA,Brazil,UMIC,South America
+BF,BFA,Burkina Faso,LIC,Africa
+BI,BDI,Burundi,LIC,Africa
+KH,KHM,Cambodia,LMIC,Asia
+CF,CAF,Central African Republic,LIC,Africa
+TD,TCD,Chad,LIC,Africa
+CO,COL,Colombia,UMIC,South America
+CY,CYP,Cyprus,HIC,Europe
+CD,COD,Democratic Republic of Congo,LIC,Africa
+DK,DNK,Denmark,HIC,Europe
+DO,DOM,Dominican Republic,UMIC,North America
+EC,ECU,Ecuador,UMIC,South America
+ET,ETH,Ethiopia,LIC,Africa
+FJ,FJI,Fiji,UMIC,Oceania
+GM,GMB,Gambia,LIC,Africa
+DE,DEU,Germany,HIC,Europe
+GR,GRC,Greece,HIC,Europe
+GL,GRL,Greenland,HIC,Europe
+GD,GRD,Grenada,UMIC,North America
+GW,GNB,Guinea-Bissau,LIC,Africa
+HN,HND,Honduras,LMIC,North America
+IS,ISL,Iceland,HIC,Europe
+IN,IND,India,LMIC,Asia
+IR,IRN,Iran,UMIC,Asia
+IQ,IRQ,Iraq,UMIC,Asia
+IE,IRL,Ireland,HIC,Europe
+IM,IMN,Isle of Man,HIC,Europe
+IT,ITA,Italy,HIC,Europe
+JP,JPN,Japan,HIC,Asia
+JO,JOR,Jordan,LMIC,Asia
+KI,KIR,Kiribati,LMIC,Oceania
+LA,LAO,Laos,LMIC,Asia
+LB,LBN,Lebanon,LMIC,Asia
+LR,LBR,Liberia,LIC,Africa
+MG,MDG,Madagascar,LIC,Africa
+MW,MWI,Malawi,LIC,Africa
+MY,MYS,Malaysia,UMIC,Asia
+MV,MDV,Maldives,UMIC,Asia
+ML,MLI,Mali,LIC,Africa
+MT,MLT,Malta,HIC,Europe
+MZ,MOZ,Mozambique,LIC,Africa
+MM,MMR,Myanmar,LMIC,Asia
+NP,NPL,Nepal,LMIC,Asia
+NI,NIC,Nicaragua,LMIC,North America
+NE,NER,Niger,LIC,Africa
+PK,PAK,Pakistan,LMIC,Asia
+PG,PNG,Papua New Guinea,LMIC,Oceania
+PY,PRY,Paraguay,UMIC,South America
+PE,PER,Peru,UMIC,South America
+PH,PHL,Philippines,LMIC,Asia
+RW,RWA,Rwanda,LIC,Africa
+LC,LCA,Saint Lucia,UMIC,North America
+WS,WSM,Samoa,LMIC,Oceania
+SA,SAU,Saudi Arabia,HIC,Asia
+SL,SLE,Sierra Leone,LIC,Africa
+SG,SGP,Singapore,HIC,Asia
+SB,SLB,Solomon Islands,LMIC,Oceania
+SO,SOM,Somalia,LIC,Africa
+LK,LKA,Sri Lanka,LMIC,Asia
+SR,SUR,Suriname,UMIC,South America
+SE,SWE,Sweden,HIC,Europe
+SY,SYR,Syria,LIC,Asia
+TZ,TZA,Tanzania,LMIC,Africa
+TG,TGO,Togo,LIC,Africa
+TO,TON,Tonga,UMIC,Oceania
+TR,TUR,Turkey,UMIC,Asia
+UG,UGA,Uganda,LIC,Africa
+AE,ARE,United Arab Emirates,HIC,Asia
+GB,GBR,United Kingdom,HIC,Europe
+VU,VUT,Vanuatu,LMIC,Oceania
+VN,VNM,Vietnam,LMIC,Asia
+YE,YEM,Yemen,LIC,Asia
