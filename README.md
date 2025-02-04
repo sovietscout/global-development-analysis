@@ -46,23 +46,12 @@ Economic growth is often celebrated as a mechanism for poverty reduction, but it
 5. **Data Visualization**:
    - Created visualisations (e.g., world maps, scatter plots) to communicate findings effectively.
 
-### Technologies Used
-This project made extensive use of the following technologies:
-
-*   **Python Libraries:**
-      *   **pandas & Polars:** For data manipulation and analysis (pandas for medium datasets, and Polars for larger datasets)
-      *   **plotly:** For creating interactive and static data visualisations.
-      *   **statsmodels:** For linear regression analysis.
-      *   **PuLP:** For formulating and solving the integer programming problem for country selection.
-*   **Other Technologies**
-      *   **Excel:** Data wrangling was done using Excel.
-
 ### My Contributions
 - **Dataset Compilation**: Compiled and cleaned all datasets, ensuring data availability and consistency for the analysis.
 - **Country Selection**: Designed and implemented an integer programming model to select 77 countries based on income groups and regions.
 - **Growth Incidence Curves (GICs)**: Constructed GICs to analyse income distribution changes.
 - **Kuznets Curve Analysis**: Adapted Park & Brat’s methodology to compute a cross-national Gini series to construct a 'global' Kuznets Curve and analyse global inequality trends.
-- **Dollar-Kraay Regressions**: Performed initial regressions to test the relationship between average incomes and the incomes of the poorest quintile and decile. Contructed a larger dataset with 
+- **Dollar-Kraay Regressions**: Performed initial regressions to test the relationship between average incomes and the incomes of the poorest quintile and decile. Combined multiple datasets to include control variables for robust analysis.
 - **Data Visualisation**: Created visualisations (e.g., world maps, scatter plots) to communicate findings effectively.
 
 ### Teammates' Contributions
@@ -74,7 +63,7 @@ While this repository focuses on my contributions, the broader project also incl
 
 ## Technologies Used
 - **Python**: For data analysis, integer programming, and visualisation.
-  - **pandas & Polars:** For data manipulation and analysis (pandas for medium datasets, and Polars for larger datasets)
+  - **pandas & Polars:** For data manipulation and analysis (pandas for medium datasets, and Polars for larger datasets).
   - **plotly:** For creating interactive and static data visualizations.
   - **statsmodels:** For linear regression analysis.
   - **PuLP:** For formulating and solving the integer programming problem for country selection.
