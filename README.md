@@ -1,7 +1,7 @@
 # Prosperity and Parity: A Global Development Trajectories Analysis
 
 ## Introduction
-This project, titled _Prosperity and Parity_, explores the relationship between economic growth, income inequality, and poverty reduction across 77 countries from 1980 to 2020. Using data from the World Bank's World Development Indicators and the Poverty and Inequality Platform, we analyze income mobility, growth incidence curves, and the effectiveness of economic growth in reducing poverty. The study incorporates methodologies such as **Dollar-Kraay regressions**, the **Kuznets Curve hypothesis**, and **Growth Incidence Curves (GICs)** to provide insights into the inclusivity of growth and its impact on disadvantaged populations.
+This project, completed as part of a college course in Development Economics (ECON05C12), explores the relationship between economic growth, income inequality, and poverty reduction across 77 countries from 1980 to 2020. Using data from the World Bank's World Development Indicators and the Poverty and Inequality Platform, we analyze income mobility, growth incidence curves, and the effectiveness of economic growth in reducing poverty. The study incorporates methodologies such as **Dollar-Kraay regressions**, the **Kuznets Curve hypothesis**, and **Growth Incidence Curves (GICs)** to provide insights into the inclusivity of growth and its impact on disadvantaged populations.
 
 
 ## Motivation
@@ -18,6 +18,11 @@ Economic growth is often celebrated as a mechanism for poverty reduction, but it
 
 
 ## Key Findings
+### Country Selection
+![World Map](images/world-map.png)
+   - The integer programming model successfully selected a diverse and representative sample of 77 countries, ensuring balanced representation across income groups and regions.
+   - This approach allowed for a comprehensive analysis of development trajectories, highlighting challenges faced by low- and middle-income nations.
+
 ### Growth Incidence Curves (GICs)
 ![GIC 1980-2020](images/gic-1980-2020.png)
    - Lower-income countries experienced significant percentage growth in GDP per capita, driven by their low initial income base. For example, some countries saw growth rates of up to 600% over the 1980-2020 period.
@@ -35,11 +40,6 @@ Economic growth is often celebrated as a mechanism for poverty reduction, but it
    - Robustness checks revealed that factors such as government expenditure on healthcare and education positively influenced low-income productivity, while higher inequality (Gini coefficient) restricted wealth distribution to the poor.
    - The relationship between growth and the incomes of the poor was weaker in Africa compared to other regions, highlighting structural challenges in translating growth into poverty reduction.
 
-### Country Selection
-![World Map](images/world-map.png)
-   - The integer programming model successfully selected a diverse and representative sample of 77 countries, ensuring balanced representation across income groups and regions.
-   - This approach allowed for a comprehensive analysis of development trajectories, highlighting challenges faced by low- and middle-income nations.
-
 ### Data-Driven Insights
    - The analysis highlighted the importance of inclusive growth policies, particularly for low- and middle-income countries, where structural barriers and uneven globalisation often limit the benefits of economic growth.
    - Visualisations such as world maps and scatter plots effectively communicated the distribution of economic growth and inequality, providing actionable insights for policymakers.
@@ -49,7 +49,7 @@ Economic growth is often celebrated as a mechanism for poverty reduction, but it
 ### Data Sources
 - **World Bank World Development Indicators**: Used for GDP per capita, income classifications, and poverty metrics.
 - **World Bank Poverty and Inequality Platform**: Provided data on inequality (Gini coefficients) and poverty measures (Headcount Ratio, Watt’s Index).
-- **United Nations World Income Inequality Database**: Provided additional and more frequent time series data on income distributions.
+- **United Nations World Income Inequality Database**: Supplemented with additional and more frequent data on income distributions.
 
 ### Analytical Techniques
 1. **Country Selection**:
