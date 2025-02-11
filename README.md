@@ -17,34 +17,6 @@ Economic growth is often celebrated as a mechanism for poverty reduction, but it
 *Note: While the project addressed all these questions, my contributions focused on country selection, Growth Incidence Curves, the global Kuznets Curve, and Dollar-Kraay regressions.*
 
 
-## Key Findings
-### Country Selection
-![World Map](images/world-map.png)
-   - The integer programming model successfully selected a diverse and representative sample of 77 countries, ensuring balanced representation across income groups and regions.
-   - This approach allowed for a comprehensive analysis of development trajectories, highlighting challenges faced by low- and middle-income nations.
-
-### Growth Incidence Curves (GICs)
-![GIC 1980-2020](images/gic-1980-2020.png)
-   - Lower-income countries experienced significant percentage growth in GDP per capita, driven by their low initial income base. For example, some countries saw growth rates of up to 600% over the 1980-2020 period.
-   - Middle-income countries grew at rates close to the global average, while high-income countries showed slower growth, with some even experiencing declines in the highest income brackets.
-   - The period 2000-2020 showed stronger pro-poor growth compared to 1980-2000, likely due to reduced global political tensions and increased economic liberalisation.
-
-### Kuznets Curve
-![Global Kuznets Curve](images/kuznets-ppp.png)
-  - The global Gini series showed a consistent downward trend from 1980 to 2020, suggesting income convergence between richer and poorer nations.
-  - The decline in global inequality reflects the rapid growth of emerging economies, particularly in Asia, which has narrowed the income gap with high-income nations. However, the existence of outliers suggest that this convergence has been uneven, with some regions (e.g., Sub-Saharan Africa) lagging behind.
-
-### Dollar-Kraay Regressions
-![Dollar-Kraay Scatter Plot](images/dollar-kraay-q1.png)
-   - Economic growth positively impacted the incomes of the poorest quintile and decile, with slope coefficients close to 1, indicating proportional income gains for the poor.
-   - Robustness checks revealed that factors such as government expenditure on healthcare and education positively influenced low-income productivity, while higher inequality (Gini coefficient) restricted wealth distribution to the poor.
-   - The relationship between growth and the incomes of the poor was weaker in Africa compared to other regions, highlighting structural challenges in translating growth into poverty reduction.
-
-### Data-Driven Insights
-   - The analysis highlighted the importance of inclusive growth policies, particularly for low- and middle-income countries, where structural barriers and uneven globalisation often limit the benefits of economic growth.
-   - Visualisations such as world maps and scatter plots effectively communicated the distribution of economic growth and inequality, providing actionable insights for policymakers.
-
-
 ## Methodology
 ### Data Sources
 - **World Bank World Development Indicators**: Used for GDP per capita, income classifications, and poverty metrics.
@@ -76,6 +48,34 @@ Economic growth is often celebrated as a mechanism for poverty reduction, but it
 
 5. **Data Visualization**:
    - Created visualisations (e.g., world maps, scatter plots) to communicate findings effectively.
+
+
+## Key Findings
+### Country Selection
+![World Map](images/world-map.png)
+   - The integer programming model successfully selected a diverse and representative sample of 77 countries, ensuring balanced representation across income groups and regions.
+   - This approach allowed for a comprehensive analysis of development trajectories, highlighting challenges faced by low- and middle-income nations.
+
+### Growth Incidence Curves (GICs)
+![GIC 1980-2020](images/gic-1980-2020.png)
+   - Lower-income countries experienced significant percentage growth in GDP per capita, driven by their low initial income base. For example, some countries saw growth rates of up to 600% over the 1980-2020 period.
+   - Middle-income countries grew at rates close to the global average, while high-income countries showed slower growth, with some even experiencing declines in the highest income brackets.
+   - The period 2000-2020 showed stronger pro-poor growth compared to 1980-2000, likely due to reduced global political tensions and increased economic liberalisation.
+
+### Kuznets Curve
+![Global Kuznets Curve](images/kuznets-ppp.png)
+  - The global Gini series showed a consistent downward trend from 1980 to 2020, suggesting income convergence between richer and poorer nations.
+  - The decline in global inequality reflects the rapid growth of emerging economies, particularly in Asia, which has narrowed the income gap with high-income nations. However, the existence of outliers suggest that this convergence has been uneven, with some regions (e.g., Sub-Saharan Africa) lagging behind.
+
+### Dollar-Kraay Regressions
+![Dollar-Kraay Scatter Plot](images/dollar-kraay-q1.png)
+   - Economic growth positively impacted the incomes of the poorest quintile and decile, with slope coefficients close to 1, indicating proportional income gains for the poor.
+   - Robustness checks revealed that factors such as government expenditure on healthcare and education positively influenced low-income productivity, while higher inequality (Gini coefficient) restricted wealth distribution to the poor.
+   - The relationship between growth and the incomes of the poor was weaker in Africa compared to other regions, highlighting structural challenges in translating growth into poverty reduction.
+
+### Data-Driven Insights
+   - The analysis highlighted the importance of inclusive growth policies, particularly for low- and middle-income countries, where structural barriers and uneven globalisation often limit the benefits of economic growth.
+   - Visualisations such as world maps and scatter plots effectively communicated the distribution of economic growth and inequality, providing actionable insights for policymakers.
 
 
 ## Technologies Used
