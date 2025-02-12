@@ -1,6 +1,6 @@
 # Prosperity and Parity: A Global Development Trajectories Analysis
 
-![Development Economics](https://img.shields.io/badge/Development-Economics-blue) ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green) ![Inequality & Poverty](https://img.shields.io/badge/Inequality-&-Poverty-orange) ![Policy Evaluation](https://img.shields.io/badge/Policy-Evaluation-purple)
+![Development Economics](https://img.shields.io/badge/Development-Economics-blue) ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green) ![Policy Evaluation](https://img.shields.io/badge/Policy-Evaluation-purple)
 
 This repository contains the analysis and findings from a comprehensive study of **global economic growth, inequality, and poverty** across 77 countries from 1980 to 2020. The study evaluates the inclusivity of economic growth, the effectiveness of poverty reduction strategies, and the validity of key economic theories such as the Kuznets Curve hypothesis and Dollar-Kraay's implications of pro-poor growth.
 
@@ -92,10 +92,10 @@ Economic growth is often celebrated as a mechanism for poverty reduction, but it
 
 
 ## File Structure
-*   `data/`: Contains the raw data and cleaned, processed data used in the project.
-*   `notebooks/`: Jupyter notebooks containing all of the analysis steps.
-*   `images/`: Output graphs and maps of the selected countries.
-*   `requirements.txt`: Python libraries needed to run the notebooks.
+-   `data/`: Contains the raw data and cleaned, processed data used in the project.
+-   `notebooks/`: Jupyter notebooks containing all of the analysis steps.
+-   `images/`: Output graphs and maps of the selected countries.
+-   `requirements.txt`: Python libraries needed to run the notebooks.
 
 
 ## How to Reproduce
