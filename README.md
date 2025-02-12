@@ -1,5 +1,9 @@
 # Prosperity and Parity: A Global Development Trajectories Analysis
 
+![Development Economics](https://img.shields.io/badge/Development-Economics-blue) ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green) ![Inequality & Poverty](https://img.shields.io/badge/Inequality-&-Poverty-orange) ![Policy Evaluation](https://img.shields.io/badge/Policy-Evaluation-purple)
+
+This repository contains the analysis and findings from a comprehensive study of **global economic growth, inequality, and poverty** across 77 countries from 1980 to 2020. The study evaluates the inclusivity of economic growth, the effectiveness of poverty reduction strategies, and the validity of key economic theories such as the Kuznets Curve hypothesis and Dollar-Kraay's implications of pro-poor growth.
+
 ## Introduction
 This project, completed as part of a college course in Development Economics (ECON05C12), explores the relationship between economic growth, income inequality, and poverty reduction across 77 countries from 1980 to 2020. Using data from the World Bank's World Development Indicators and the Poverty and Inequality Platform, we analyze income mobility, growth incidence curves, and the effectiveness of economic growth in reducing poverty. The study incorporates methodologies such as **Dollar-Kraay regressions**, the **Kuznets Curve hypothesis**, and **Growth Incidence Curves (GICs)** to provide insights into the inclusivity of growth and its impact on disadvantaged populations.
 
